@@ -116,7 +116,7 @@ bilal = {
 
 | | Role | Organisation | Period |
 |---|---|---|---|
-| 🤝 | FYP Collaborator — AI CRM System | Rockville Technologies | 2025 — Present |
+| 🤝 | FYP — AI Powered Omni Channel CRM System | Rockville Technologies | 2025 — Present |
 | 🏛️ | Software Engineering Intern | NDMA — National Disaster Management Authority | 2025 |
 | 🎓 | BS Computer Science | NUTECH — National University of Technology | 2022 — 2026 |
 

@@ -37,7 +37,6 @@ bilal = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-m--bilal--hashmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-bilal-hashmi)
-[![GitHub](https://img.shields.io/badge/GitHub-BilalHq38-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BilalHq38)
 [![Email](https://img.shields.io/badge/Email-mbilalhq38@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbilalhq38@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0310_0119166-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923100119166)
 

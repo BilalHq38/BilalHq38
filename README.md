@@ -36,11 +36,14 @@ bilal = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-m--bilal--hashmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-bilal-hashmi)
-[![Email](https://img.shields.io/badge/Email-mbilalhq38@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbilalhq38@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0310_0119166-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923100119166)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mbilalhq.tech-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://mbilalhq.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-m--bilal--hashmi-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/m-bilal-hashmi)
+[![Email](https://img.shields.io/badge/Email-mbilalhq38@gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mbilalhq38@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0310_0119166-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/923100119166)
 
 </div>
+
+
 
 ---
 

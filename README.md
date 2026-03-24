@@ -110,47 +110,6 @@ bilal = {
 
 ---
 
-## 🚀 &nbsp;Featured Projects
-
-### ⭐ AI-Powered Omni-Channel CRM &nbsp;·&nbsp; *Final Year Project*
-> Built in collaboration with **Rockville Technologies**
-
-An intelligent CRM that unifies customer conversations from **WhatsApp, Facebook, and Instagram** into a single dashboard. The AI layer resolves cross-platform identity (same person on multiple channels gets auto-linked), generates context-aware responses using LLMs, and escalates to a human agent on hate speech or negative sentiment.
-
-`React` `FastAPI` `PostgreSQL` `Docker` `AWS` `LLMs` `NLP` `Sentiment Analysis`
-
----
-
-### 🔍 Chaty_PDFs — AI Document Chatbot
-> Natural-language Q&A over any uploaded PDF
-
-Full-stack web app with document ingestion, chunking, embedding, and sub-second semantic retrieval via ChromaDB. Real-time streaming responses over a clean UI.
-
-`Python` `NLP` `ChromaDB` `Vector Embeddings` `HTML`
-&nbsp;·&nbsp; [GitHub](https://github.com/BilalHq38/Chaty_PDFs.git) &nbsp;·&nbsp; [LinkedIn Post](https://www.linkedin.com/posts/m-bilal-hashmi_chatypdfs-rethinking-how-we-read-documents-ugcPost-7373839173864267777-wOXD)
-
----
-
-### 📖 AI Story Generator — Interactive Storytelling
-> Branching narratives powered by Gemini API
-
-React + FastAPI app where user choices shape real-time story continuations. Includes multilingual text-to-speech narration and a stateful session architecture for story continuity.
-
-`FastAPI` `React` `Google Gemini API` `Text-to-Speech`
-&nbsp;·&nbsp; [GitHub](https://github.com/BilalHq38/AI-Story-Generator.git)
-
----
-
-### 🖼️ Image Search Engine — CNN Feature Retrieval
-> Content-based image retrieval using deep embeddings
-
-CNN-powered retrieval engine that finds visually similar images using feature embeddings — no reliance on fragile metadata. Fine-tuned embedding extraction layers for improved precision.
-
-`Python` `CNN` `Deep Learning` `Feature Embeddings` `HTML`
-&nbsp;·&nbsp; [GitHub](https://github.com/BilalHq38/Image_Search_Engine_Using_CNN.git) &nbsp;·&nbsp; [LinkedIn Post](https://www.linkedin.com/posts/m-bilal-hashmi_recently-i-worked-on-a-project-the-problem-ugcPost-7377291888778858496-8gOE)
-
----
-
 ## 🏛️ &nbsp;Experience & Education
 
 | | Role | Organisation | Period |
